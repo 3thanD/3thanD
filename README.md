@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @3thanD
-- 👀 Just a dude, doing stuff. 
+- 👀 I am a Technomancer and Cunning Linguist. 
 
 <!---
 3thanD/3thanD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
