@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @3thanD. Thank you for visiting my GitHub.
-- 👀 Please feel free to look around and message me if you have any questions.
-  
-
-<!---
-3thanD/3thanD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Ethan 👋
+I'm a Senior Systems Engineer focused on cloud infrastructure, enterprise networking, and automation. I am currently pursuing a B.S. in Cloud and Network Engineering (Azure track) and using this space to share the tools and applications I build along the way.
+What I'm up to right now:
+ ☁️ Studying for the Microsoft AZ-104 certification.
+ 🚢 Just shipped Weatherbubb and launched the newest iteration of bonappel.com.
+ 🧠 Developing RAG-backed applications to make complex document searches easier.
+⚡ Stack: Azure, PowerShell, Docker, Proxmox, PostgreSQL
